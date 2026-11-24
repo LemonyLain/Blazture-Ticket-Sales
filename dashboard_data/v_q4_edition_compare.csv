@@ -1,0 +1,10 @@
+ticket_group,ticket_type,tickets_2025,tickets_2026,change_tickets,growth_pct
+Regular phase,Early Bird,100,150,50,50.0
+Regular phase,Presale 1,478,204,-274,-57.3
+Regular phase,Presale 2,783,1959,1176,150.2
+Regular phase,Presale 3,381,537,156,40.9
+Special offer,Blood Donor (50%),0,23,23,
+Special offer,Bundle,59,79,20,
+Special offer,On-the-spot,65,35,-30,
+Special offer,Promo Diesnatalis,56,0,-56,
+Special offer,Promo Presale 3,50,0,-50,

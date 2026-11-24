@@ -1,0 +1,16 @@
+edition,ticket_group,ticket_type,tickets,pct_of_edition
+2025,Regular phase,Early Bird,100,5.1
+2025,Regular phase,Presale 1,478,24.2
+2025,Regular phase,Presale 2,783,39.7
+2025,Regular phase,Presale 3,381,19.3
+2025,Special offer,Bundle,59,3.0
+2025,Special offer,On-the-spot,65,3.3
+2025,Special offer,Promo Diesnatalis,56,2.8
+2025,Special offer,Promo Presale 3,50,2.5
+2026,Regular phase,Early Bird,150,5.0
+2026,Regular phase,Presale 1,204,6.8
+2026,Regular phase,Presale 2,1959,65.6
+2026,Regular phase,Presale 3,537,18.0
+2026,Special offer,Blood Donor (50%),23,0.8
+2026,Special offer,Bundle,79,2.6
+2026,Special offer,On-the-spot,35,1.2
